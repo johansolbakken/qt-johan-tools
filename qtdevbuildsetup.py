@@ -89,7 +89,8 @@ def main():
         setup_qt_module(state, module)
 
     examples = [
-        "qtquick3d"
+        "qtquick3d",
+        "qtquick3dphysics"
     ]
 
     for example in examples:
